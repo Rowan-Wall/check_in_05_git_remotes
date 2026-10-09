@@ -1,12 +1,12 @@
 adjective (descriptor): smelly
-adjective (descriptor): 
-plural noun (person/place/thing):
-a number:
-plural noun (person/place/thing):
-adjective (descriptor): 
-proper noun (name of a person/place/thing):
-verb (action word) ending in -ing:
-adjective (descriptor):
-noun (person/place/thing): dog
-adjective (descriptor):
-noun (person/place/thing):
+adjective (descriptor): farty
+plural noun (person/place/thing):lillies
+a number:9
+plural noun (person/place/thing):buildings
+adjective (descriptor): large
+proper noun (name of a person/place/thing):Twin Towers
+verb (action word) ending in -ing:flying
+adjective (descriptor):fast
+noun (person/place/thing):pool
+adjective (descriptor):wet
+noun (person/place/thing):cat
